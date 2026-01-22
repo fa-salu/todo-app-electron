@@ -2,7 +2,7 @@
 
 **Project Type:** Desktop Application – Offline Task Management
 **Tech Stack:** Electron, Node.js, Express, SQLite
-**Platform:** Windows & Linux
+**Platform:** Windows & Linux & Mac
 
 ---
 
