@@ -1,0 +1,44 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# Electron build output
+dist/
+dist-electron/
+linux-unpacked/
+win-unpacked/
+mac/
+
+# SQLite database (VERY IMPORTANT)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.tmp/
+
+# Electron builder
+builder-debug.yml
+builder-effective-config.yaml
+
+# AppImage runtime mounts (Linux)
+.AppImage
